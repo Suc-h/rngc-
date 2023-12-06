@@ -1,0 +1,16 @@
+G:\PRG\rng\rng\bin\Debug\net6.0-windows\rng.exe
+G:\PRG\rng\rng\bin\Debug\net6.0-windows\rng.deps.json
+G:\PRG\rng\rng\bin\Debug\net6.0-windows\rng.runtimeconfig.json
+G:\PRG\rng\rng\bin\Debug\net6.0-windows\rng.dll
+G:\PRG\rng\rng\bin\Debug\net6.0-windows\rng.pdb
+G:\PRG\rng\rng\obj\Debug\net6.0-windows\rng.Form1.resources
+G:\PRG\rng\rng\obj\Debug\net6.0-windows\rng.csproj.GenerateResource.cache
+G:\PRG\rng\rng\obj\Debug\net6.0-windows\rng.GeneratedMSBuildEditorConfig.editorconfig
+G:\PRG\rng\rng\obj\Debug\net6.0-windows\rng.AssemblyInfoInputs.cache
+G:\PRG\rng\rng\obj\Debug\net6.0-windows\rng.AssemblyInfo.cs
+G:\PRG\rng\rng\obj\Debug\net6.0-windows\rng.csproj.CoreCompileInputs.cache
+G:\PRG\rng\rng\obj\Debug\net6.0-windows\rng.dll
+G:\PRG\rng\rng\obj\Debug\net6.0-windows\refint\rng.dll
+G:\PRG\rng\rng\obj\Debug\net6.0-windows\rng.pdb
+G:\PRG\rng\rng\obj\Debug\net6.0-windows\rng.genruntimeconfig.cache
+G:\PRG\rng\rng\obj\Debug\net6.0-windows\ref\rng.dll
